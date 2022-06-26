@@ -9,4 +9,4 @@ Locations: Auckland and Palmerston North, New Zealand.
 * [Training dataset](https://drive.google.com/u/0/uc?id=1s9c01kzDM6v_zJgUqIqnxoglH3jz947H) (1.3 GB)
 * [Validation dataset](https://drive.google.com/u/0/uc?id=1vrZGhYcUBDHV_ApnGfnOQZt2k88eONov) (450 MB)
 * [Testing dataset](https://drive.google.com/u/0/uc?id=1a4Qc1iH5BE8BkGm4fzzfCE143wYjL6r4) (227 MB)
-
+* [External testing dataset](https://drive.google.com/file/d/1qLhG4MGfXPDb3XIg8GaJ6XedUM40SHfY/view?usp=sharing) (77 MB)
